@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[640],{1096:i=>{i.exports=JSON.parse('{"title":"CityBuild","slug":"/category/citybuild","permalink":"/category/citybuild","navigation":{"previous":{"title":"Entbannungsantrag","permalink":"/Minecraft/Ban"},"next":{"title":"Einf\xfchrung","permalink":"/Minecraft/Citybild/Einf\xfchrung"}}}')}}]);

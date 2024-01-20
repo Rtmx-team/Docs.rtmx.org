@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[790],{6286:e=>{e.exports=JSON.parse('{"title":"Minecraft","slug":"/category/minecraft","permalink":"/category/minecraft","navigation":{"previous":{"title":"Willkommen","permalink":"/"},"next":{"title":"Entbannungsantrag","permalink":"/Minecraft/Ban"}}}')}}]);
